@@ -23,7 +23,9 @@ The weather data obtained comes from a weather API provider service called [Open
 ```
 
 3. Get Weather API Key from [OpenWeather](https://openweathermap.org/api)
-4. Start Server
+4. Paste API Key to .env.example on API_KEY Variable
+5. Rename .env.example to .env
+6. Start Server
 
 ```bash
     npm run dev
